@@ -1,4 +1,4 @@
 - 👨🏻‍💻 Hi! I'm Emerickgrimm 
 - 🌱 I'm beginner Game Developer
 - 📖 I'm learning Unity and Game Design
-- 📬 You can contact me via my E-mail dmytry.vynarchuk@yandex.com
+- 📬 You can contact me via my E-mail dmytry.vynarchuk@gmail.com
