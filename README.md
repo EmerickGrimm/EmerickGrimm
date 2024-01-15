@@ -1,5 +1,5 @@
 - 👨🏻‍💻 Hi! I'm Emerickgrimm 
-- 🌱 I'm beginner Game Developer
+- 🌱 I'm a beginner Developer
 - 📖 I'm learning Unity and Game Design
-- 📬 You can contact me via my E-mail dmytry.vynarchuk@gmail.com
+- 📬 You can contact me via my E-mail at dmytry.vynarchuk@gmail.com
 - https://www.buymeacoffee.com/emerickgrimm
